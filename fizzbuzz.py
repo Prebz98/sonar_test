@@ -7,7 +7,7 @@ def fizzbuzz(number):
     if (res == ""):
         return number
     return res
-
+# jaja
 def fizzbuzz_zero_to_hundred():
     for i in range(1, 100):
         print(fizzbuzz)
